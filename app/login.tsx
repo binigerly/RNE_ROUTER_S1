@@ -1,4 +1,4 @@
-import LoginScreen from "@/components/LoginScreen.tsx"
+import LoginScreen from "@/components/LoginScreen"
 
 
 const login = () => {
